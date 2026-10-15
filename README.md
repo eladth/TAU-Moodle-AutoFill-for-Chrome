@@ -28,4 +28,5 @@ Since this extension is not currently published on the Chrome Web Store, you can
 
 1. **Download or Clone the Repository:**
    ```bash
-   git clone [https://github.com/eladth/TAU-Moodle-AutoFill-for-Chrome.git](https://github.com/eladth/TAU-Moodle-AutoFill-for-Chrome.git)
+   git clone https://github.com/eladth/TAU-Moodle-AutoFill-for-Chrome.git
+   ```
